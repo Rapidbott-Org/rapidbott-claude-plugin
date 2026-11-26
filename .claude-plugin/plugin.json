@@ -8,9 +8,17 @@
     "url": "https://rapidbott.com"
   },
   "homepage": "https://rapidbott.com",
+  "privacyPolicyUrl": "https://app.rapidbott.com/privacy-policy",
   "repository": "https://github.com/Rapidbott-Org/rapidbott-claude-plugin",
   "license": "MIT",
-  "keywords": ["chatbot", "whatsapp", "telegram", "automation", "ecommerce", "rapidbott"],
+  "keywords": [
+    "chatbot",
+    "whatsapp",
+    "telegram",
+    "automation",
+    "ecommerce",
+    "rapidbott"
+  ],
   "mcpServers": {
     "rapidbott-flow": {
       "type": "http",

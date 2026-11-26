@@ -1,0 +1,18 @@
+{
+  "name": "rapidbott",
+  "owner": {
+    "name": "Rapidbott",
+    "url": "https://rapidbott.com"
+  },
+  "metadata": {
+    "description": "Official Rapidbott plugins for Claude"
+  },
+  "plugins": [
+    {
+      "name": "rapidbott-flow",
+      "source": "./",
+      "description": "Build and update Rapidbott Flow chatbots and, when authorized, manage Rapidbott ecommerce catalogs and order fulfillment.",
+      "version": "1.1.0"
+    }
+  ]
+}

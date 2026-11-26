@@ -1,0 +1,20 @@
+{
+  "name": "rapidbott-flow",
+  "displayName": "Rapidbott Flow",
+  "version": "1.1.0",
+  "description": "Build and update Rapidbott Flow chatbots and, when authorized, manage Rapidbott ecommerce catalogs and order fulfillment.",
+  "author": {
+    "name": "Rapidbott",
+    "url": "https://rapidbott.com"
+  },
+  "homepage": "https://rapidbott.com",
+  "repository": "https://github.com/Rapidbott-Org/rapidbott-claude-plugin",
+  "license": "MIT",
+  "keywords": ["chatbot", "whatsapp", "telegram", "automation", "ecommerce", "rapidbott"],
+  "mcpServers": {
+    "rapidbott-flow": {
+      "type": "http",
+      "url": "https://app.rapidbott.com/api/mcp/rapidbott-flow"
+    }
+  }
+}
